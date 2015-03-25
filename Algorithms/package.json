@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "main": "array_to_binary_tree.js",
+  "author": "Mark Vasilkov <mvasilkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "archy": "^1.0.0"
+  }
+}
